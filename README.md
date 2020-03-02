@@ -2,10 +2,11 @@
 
 ------
 
-description:  A white box algorithm that generate adversarial examples according to the paper 《TEXTBUGGER: Generating Adversarial Text AgainstReal-world Applications》
+description:  A white box algorithm that generate adversarial examples according to the paper  
+《TEXTBUGGER: Generating Adversarial Text AgainstReal-world Applications》
 
 ## Pre knowledge
-1.this model is about Sentiment analysis which data set is IMDB 
+1.this model is about Sentiment analysis which data set is IMDB  
 2.i provided a pre training model in folder named model_pytorch_gru
 ## Requirement
 > * python3
@@ -22,7 +23,7 @@ description:  A white box algorithm that generate adversarial examples according
 then you will see the result file Generate_countermeasure_samples.txt
 
 ## Some examples about result file
->$\color{red}{No-3srcSentence:}$the protector you hear the name you think ah its a crappy hong kong movie guess what its not hong kong and yes it is crappy this amazingly $\color{red}{stupid}$ jackie chan film ruined by us yes us the americans im boiling with anger ooh i think ill jump out that window has chan as a new york cop hunting down a gang avenging the death of his buddy sounds unk its not dont waste your money renting it to prove he could make a better cop film chan made the amazing police story 
+>**No-3srcSentence**:the protector you hear the name you think ah its a crappy hong kong movie guess what its not hong kong and yes it is crappy this amazingly $\color{red}{stupid}$ jackie chan film ruined by us yes us the americans im boiling with anger ooh i think ill jump out that window has chan as a new york cop hunting down a gang avenging the death of his buddy sounds unk its not dont waste your money renting it to prove he could make a better cop film chan made the amazing police story 
 $\color{red}{No-3srcSentence:}$the protector you hear the name you think ah its a crappy hong kong movie guess what its not hong kong and yes it is crappy this amazingly $\color{red}{funny}$ jackie chan film ruined by us yes us the americans im boiling with anger ooh i think ill jump out that window has chan as a new york cop hunting down a gang avenging the death of his buddy sounds unk its not dont waste your money renting it to prove he could make a better cop film chan made the amazing police story
 $\color{red}{No-3label:}$negative--->positive
 $\color{red}{No-3probability:}$positive(0.05022594)-->positive(0.815222)    
