@@ -23,13 +23,13 @@ description:  A white box algorithm that generate adversarial examples according
 then you will see the result file Generate_countermeasure_samples.txt
 
 ## Some examples about result file
->**No-3srcSentence**:the protector you hear the name you think ah its a crappy hong kong movie guess what its not hong kong and yes it is crappy this amazingly $\color{red}{stupid}$ jackie chan film ruined by us yes us the americans im boiling with anger ooh i think ill jump out that window has chan as a new york cop hunting down a gang avenging the death of his buddy sounds unk its not dont waste your money renting it to prove he could make a better cop film chan made the amazing police story 
-$\color{red}{No-3srcSentence:}$the protector you hear the name you think ah its a crappy hong kong movie guess what its not hong kong and yes it is crappy this amazingly $\color{red}{funny}$ jackie chan film ruined by us yes us the americans im boiling with anger ooh i think ill jump out that window has chan as a new york cop hunting down a gang avenging the death of his buddy sounds unk its not dont waste your money renting it to prove he could make a better cop film chan made the amazing police story
-$\color{red}{No-3label:}$negative--->positive
-$\color{red}{No-3probability:}$positive(0.05022594)-->positive(0.815222)    
-$\color{red}{No-3mutate:}$type(stupid-->funny)
+>**No-3srcSentence**:the protector you hear the name you think ah its a crappy hong kong movie guess what its not hong kong and yes it is crappy this amazingly **stupid** jackie chan film ruined by us yes us the americans im boiling with anger ooh i think ill jump out that window has chan as a new york cop hunting down a gang avenging the death of his buddy sounds unk its not dont waste your money renting it to prove he could make a better cop film chan made the amazing police story 
+**No-3srcSentence**:the protector you hear the name you think ah its a crappy hong kong movie guess what its not hong kong and yes it is crappy this amazingly **funny** jackie chan film ruined by us yes us the americans im boiling with anger ooh i think ill jump out that window has chan as a new york cop hunting down a gang avenging the death of his buddy sounds unk its not dont waste your money renting it to prove he could make a better cop film chan made the amazing police story  
+**No-3label**:negative--->positive  
+**No-3probability**:positive(0.05022594)-->positive(0.815222)       
+**No-3mutate**:type(stupid-->funny)  
 
-$\color{red}{explanation}$ ：
+**explanation**：
 第一行是原始的句子
 第二行是产生的对抗样本
 第三行分别对应原始标签和对抗样本的标签
