@@ -36,7 +36,7 @@ then you will see the result file Generate_countermeasure_samples.txt
 第四行是概率的变化，我们可以看到原始的句子判断为positive的概率0.05，对抗样本判断为positive的概率是0.81   
 第五行展示了生成这个对抗样本具体改动了哪些词,比如这里就是将原始句子的stupid改为了funny
 
-#核心原理简要说明
+# 核心原理简要说明
 本算法根据梯度选出一个句子中topN个重要的词，按词的重要性依次做下列几个操作  
 1.对该词随机加入空格  
 2.对该词随机删除个别字母  
