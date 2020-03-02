@@ -6,8 +6,8 @@ description:  A white box algorithm that generate adversarial examples according
 《TEXTBUGGER: Generating Adversarial Text AgainstReal-world Applications》
 
 ## Pre knowledge
-1.this model is about Sentiment analysis which data set is IMDB  
-2.i provided a pre training model in folder named model_pytorch_gru
+> * this model is about Sentiment analysis which data set is IMDB  
+> * i provided a pre training model in folder named model_pytorch_gru
 ## Requirement
 > * python3
 > * pytorch
