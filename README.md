@@ -18,7 +18,7 @@ description:  A white box algorithm that generate adversarial examples according
 > * scikit_learn==0.22.2
 
 ## Easy Begin
-> just run:python pytorch.py 
+> just run:python pytorch.py  
 then you will see the result file Generate_countermeasure_samples.txt
 
 ## Some examples about result file
