@@ -23,7 +23,7 @@ description:  A white box algorithm that generate adversarial examples according
 then you will see the result file Generate_countermeasure_samples.txt
 
 ## A example about result file
->**No-3srcSentence**:the protector you hear the name you think ah its a crappy hong kong movie guess what its not hong kong and yes it is crappy this amazingly **stupid** jackie chan film ruined by us yes us the americans im boiling with anger ooh i think ill jump out that window has chan as a new york cop hunting down a gang avenging the death of his buddy sounds unk its not dont waste your money renting it to prove he could make a better cop film chan made the amazing police story 
+>**No-3srcSentence**:the protector you hear the name you think ah its a crappy hong kong movie guess what its not hong kong and yes it is crappy this amazingly **stupid** jackie chan film ruined by us yes us the americans im boiling with anger ooh i think ill jump out that window has chan as a new york cop hunting down a gang avenging the death of his buddy sounds unk its not dont waste your money renting it to prove he could make a better cop film chan made the amazing police story   
 **No-3srcSentence**:the protector you hear the name you think ah its a crappy hong kong movie guess what its not hong kong and yes it is crappy this amazingly **funny** jackie chan film ruined by us yes us the americans im boiling with anger ooh i think ill jump out that window has chan as a new york cop hunting down a gang avenging the death of his buddy sounds unk its not dont waste your money renting it to prove he could make a better cop film chan made the amazing police story  
 **No-3label**:negative--->positive  
 **No-3probability**:positive(0.05022594)-->positive(0.815222)       
@@ -44,3 +44,7 @@ then you will see the result file Generate_countermeasure_samples.txt
 4.相似字母替换，如a->@ l->1....  
 ...  
 一直做上述操作直到原始句子的label发现改变  
+ 
+If you think it will help you, you can give me a star,thinks...
+last:any question call me at 942042627@qq.com 
+
