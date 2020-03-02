@@ -37,7 +37,7 @@ then you will see the result file Generate_countermeasure_samples.txt
 第五行展示了生成这个对抗样本具体改动了哪些词,比如这里就是将原始句子的stupid改为了funny
 
 # 核心原理简要说明
-本算法根据梯度选出一个句子中topN个重要的词，按词的重要性依次做下列几个操作  
+>本算法根据梯度选出一个句子中topN个重要的词，按词的重要性依次做下列几个操作  
 1.对该词随机加入空格  
 2.对该词随机删除个别字母  
 3.替换该词为其近视词  
