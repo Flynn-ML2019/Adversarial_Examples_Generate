@@ -30,8 +30,8 @@ then you will see the result file Generate_countermeasure_samples.txt
 **No-3mutate**:type(stupid-->funny)  
 
 **explanation**：
-第一行是原始的句子
-第二行是产生的对抗样本
-第三行分别对应原始标签和对抗样本的标签
-第四行是概率的变化，我们可以看到原始的句子判断为positive的概率0.05022594，对抗样本判断为positive的概率是0.815222
-第五行展示了生成这个对抗样本具体改动了哪些词
+第一行是原始的句子  
+第二行是产生的对抗样本  
+第三行分别对应原始标签和对抗样本的标签  
+第四行是概率的变化，我们可以看到原始的句子判断为positive的概率0.05022594，对抗样本判断为positive的概率是0.815222  
+第五行展示了生成这个对抗样本具体改动了哪些词,比如这里就是将原始句子的stupid改为了funny
