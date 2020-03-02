@@ -46,5 +46,5 @@ then you will see the result file Generate_countermeasure_samples.txt
 一直做上述操作直到原始句子的label发现改变  
  
 If you think it will help you, you can give me a star,thinks...  
-last:any question call me at 942042627@qq.com 
+last:any question send to 942042627@qq.com 
 
