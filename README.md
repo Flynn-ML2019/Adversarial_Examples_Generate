@@ -29,7 +29,7 @@ then you will see the result file Generate_countermeasure_samples.txt
 **No-3probability**:positive(0.05022594)-->positive(0.815222)       
 **No-3mutate**:type(stupid-->funny)  
 
-**explanation**：
+**explanation**  
 第一行是原始的句子  
 第二行是产生的对抗样本  
 第三行分别对应原始标签和对抗样本的标签  
