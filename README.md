@@ -2,7 +2,7 @@
 
 ------
 
-description:  A white box algorithm that generate adversarial examples according to the paper  
+Description:  A white box algorithm that generate adversarial examples according to the paper  
 《TEXTBUGGER: Generating Adversarial Text AgainstReal-world Applications》
 
 ## Pre knowledge
