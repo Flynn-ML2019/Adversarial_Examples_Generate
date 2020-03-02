@@ -22,7 +22,7 @@ description:  A white box algorithm that generate adversarial examples according
 > just run:python pytorch.py  
 then you will see the result file Generate_countermeasure_samples.txt
 
-## Some examples about result file
+## A example about result file
 >**No-3srcSentence**:the protector you hear the name you think ah its a crappy hong kong movie guess what its not hong kong and yes it is crappy this amazingly **stupid** jackie chan film ruined by us yes us the americans im boiling with anger ooh i think ill jump out that window has chan as a new york cop hunting down a gang avenging the death of his buddy sounds unk its not dont waste your money renting it to prove he could make a better cop film chan made the amazing police story 
 **No-3srcSentence**:the protector you hear the name you think ah its a crappy hong kong movie guess what its not hong kong and yes it is crappy this amazingly **funny** jackie chan film ruined by us yes us the americans im boiling with anger ooh i think ill jump out that window has chan as a new york cop hunting down a gang avenging the death of his buddy sounds unk its not dont waste your money renting it to prove he could make a better cop film chan made the amazing police story  
 **No-3label**:negative--->positive  
