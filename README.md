@@ -4,10 +4,10 @@
 
 description:  A white box algorithm that generate adversarial examples according to the paper 《TEXTBUGGER: Generating Adversarial Text AgainstReal-world Applications》
 
-##Pre knowledge
+## Pre knowledge
 1.this model is about Sentiment analysis which data set is IMDB 
 2.i provided a pre training model in folder named model_pytorch_gru
-##Requirement
+## Requirement
 > * python3
 > * pytorch
 > * numpy==1.16.0
@@ -17,7 +17,7 @@ description:  A white box algorithm that generate adversarial examples according
 > * bert_serving==0.0.1
 > * scikit_learn==0.22.2
 
-##Easy Begin
+## Easy Begin
 > just run:python pytorch.py 
 then you will see the result file Generate_countermeasure_samples.txt
 
