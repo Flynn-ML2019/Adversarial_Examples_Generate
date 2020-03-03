@@ -1,4 +1,4 @@
-# Adversarial_Examples_Generation 
+# Adversarial_Examples_Generate 
 
 ------
 
@@ -44,7 +44,8 @@ then you will see the result file Generate_countermeasure_samples.txt
 4.相似字母替换，如a->@ l->1....  
 ...  
 一直做上述操作直到原始句子的label发现改变  
- 
+还有一些数据文件太大了，放在云盘链接: https://pan.baidu.com/s/1_J9gHGw0xM8-Vki3LYkX2g 提取码: nx5  
+
 If you think it will help you, you can give me a star,thinks...  
 last:any question send to 942042627@qq.com 
 
