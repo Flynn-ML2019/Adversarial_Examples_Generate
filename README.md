@@ -7,7 +7,7 @@ Description:  A white box algorithm that generate adversarial examples according
 
 ## Pre knowledge
 > * this model is about Sentiment analysis which dataset is IMDB  
-> * i provided a pre training model in folder named model_pytorch_gru
+> * i provided a  model in folder named model_pytorch_gru to you for easy begin
 ## Requirement
 > * python3
 > * pytorch
