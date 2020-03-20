@@ -43,8 +43,6 @@ then you will see the result file Generate_countermeasure_samples.txt
 3.替换该词为其近视词  
 4.相似字母替换，如a->@ l->1....  
 ...  
-一直做上述操作直到原始句子的label发现改变  
+一直做上述操作直到原始句子的label发生改变  
   
-还有一些数据文件太大了，放在云盘链接: https://pan.baidu.com/s/1_J9gHGw0xM8-Vki3LYkX2g 提取码: nx5  
-
-
+还有一些数据文件太大了，放在云盘链接: https://pan.baidu.com/s/1d00LxLgWhqNoPUJLlK4-CQ 提取码: ba7j 
